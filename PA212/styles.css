@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  padding: 0.2rem;
+  background-color: #1f0166;
+  color: white;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+section {
+  width: 90%;
+  max-width: 40rem;
+  margin: auto;
+}
+label {
+  display: table-cell;
+  text-align: right;
+}
+input {
+  display: table-cell;
+}
+
+#Pwr-Assurance {
+  margin-left: 1rem;
+}
